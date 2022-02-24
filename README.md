@@ -1,7 +1,7 @@
 ## <div align="center">Hey! I’m Antriksh Dhand 👋</div>
 
 - :mortar_board: Studying Software Engineering and Data Science at USYD
-- :briefcase: Working as a Data Analyst at Transport for NSW
+- :briefcase: Working as a Data Scientist at Transport for NSW
 - :book: Currently reading Think Stats by Allen B. Downey
 
 <!---
