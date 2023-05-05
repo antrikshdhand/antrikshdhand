@@ -6,4 +6,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - Currently studying Software Engineering and Data Science at The University of Sydney
-- Employed at Transport for NSW as an IT Scholar
