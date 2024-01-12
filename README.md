@@ -1,15 +1,13 @@
-<h1 align="center">Hey! I'm Antriksh.</h1>
+<div align="center">Hey! I'm Antriksh.</h1>
 
-## About me
-📖 Penultimate year Software Engineering and Data Science student at the University of Sydney
+- 📖 Penultimate year Software Engineering and Data Science student at the University of Sydney
+- 🖋️ Currently working as a research intern in the field of formal languages and grammar inference
 <br>
-🖋️ Currently working as a research intern in the field of formal languages and grammar inference
+- 🇸🇬 Exchanged at the National University of Singapore's renowned computer science program in 2023 
 <br>
-🇸🇬 Exchanged at the National University of Singapore's renowned computer science program in 2023 
+- 🌋 Fun fact: I climbed 3 mountains and 2 volcanoes while on exchange!
 <br>
-🌋 Fun fact: I climbed 3 mountains and 2 volcanoes while on exchange!
-<br>
-💬 Open to opportunities, networking, and chats
+- 💬 Open to opportunities, networking, and chats
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
