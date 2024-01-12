@@ -3,11 +3,8 @@
 ## About me
 - 📖 Penultimate year Software Engineering and Data Science student at the University of Sydney
 - 🖋️ Currently working as a research intern in the field of formal languages and grammar inference
-<br>
 - 🇸🇬 Exchanged at the National University of Singapore's renowned computer science program in 2023 
-<br>
 - 🌋 Fun fact: I climbed 3 mountains and 2 volcanoes while on exchange!
-<br>
 - 💬 Open to opportunities, networking, and chats
 
 ## My tech stack
